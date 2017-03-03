@@ -1,0 +1,3 @@
+用户点击保存代码，程序在保存代码的路径上找到源代码文件，然后读取源文件，进行编译
+
+extern 关键字详解http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html
